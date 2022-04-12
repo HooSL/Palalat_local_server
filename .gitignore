@@ -1,3 +1,9 @@
+#올라가면 안되는 애들
+mysql_connection.py
+config.py
+utils.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
